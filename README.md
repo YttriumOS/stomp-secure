@@ -9,7 +9,6 @@ sudo touch /etc/xbps.d/stomp-secure
 
 ```
 repository=https://github.com/YttriumOS/stomp-secure/tree/main/core/
-
 ```
 **3. Update your repos<br><br>**
 
