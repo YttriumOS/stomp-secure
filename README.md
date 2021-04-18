@@ -2,7 +2,7 @@
 
 **1.** 
 ```
-sudo touch /etc/xbps.d/stomp-secure
+sudo touch /etc/xbps.d/stomp-secure.conf 
 ```
 
 **2. append this to the respective file :** 
